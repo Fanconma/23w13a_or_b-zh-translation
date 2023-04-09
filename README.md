@@ -13,7 +13,7 @@ ANYWAY;)
 To use this project, you need to follow these steps:
 
 1. Download and install Minecraft 23w13a_or_b version from [here](https://www.minecraft.net/en-us/article/minecraft-snapshot-23w13a).
-2. Download the Chinese translation file from this repository by clicking the green "Code" button and then "Download ZIP".
+2. Download the Chinese translation file from this repository from [here](https://github.com/Fanconma/23w13a_or_b-zh-translation/releases/).
 3. Extract the ZIP file and copy the folder into the resource pack folder of the game. The default location is `C:\Users\YOURNAME\AppData\Roaming\.minecraft\resourcepacks`.
 4. Launch the game and go to "Options" > "Resource Packs" and select this translation.
 5. Go to "Options" > "Language" and select "中文 (中国大陆)" , "中文 (香港特別行政區)" or "中文 (台灣)".
