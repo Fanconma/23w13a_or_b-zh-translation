@@ -28,6 +28,9 @@ If you find any translation errors or inaccuracies, you are welcome to give us f
 
 We appreciate your support and contribution to this project!
 
+## GET IN TOUCH
+DISCORD: https://discord.gg/PcUrdySw?event=1092030778906509312
+
 ## License and Disclaimer
 
 This project is licensed under the MIT license. The copyright belongs to the contributors of this project. This project has no affiliation with Minecraft official.
