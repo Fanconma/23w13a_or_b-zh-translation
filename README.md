@@ -29,7 +29,7 @@ If you find any translation errors or inaccuracies, you are welcome to give us f
 We appreciate your support and contribution to this project!
 
 ## GET IN TOUCH
-DISCORD: https://discord.gg/PcUrdySw?event=1092030778906509312
+DISCORD: https://discord.gg/nf5Fcuvb9s
 
 ## License and Disclaimer
 
